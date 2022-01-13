@@ -1,0 +1,32 @@
+.card{
+    
+    text-align: center;
+    margin: 100px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px 10px rgba(255, 0, 0, 0.493);
+    
+}
+#titulo{
+    text-align: center;
+    color: #fff;
+}
+body{
+    background-image: url(police.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 53%;
+}
+#resposta{
+    text-align: center;
+    color: red;
+    
+    font-size: 20px;
+}
+#green{
+    color: blue;
+}
+#respfinal{
+    color: blue;
+}
